@@ -10,3 +10,17 @@ Dw, this program only creates a dialog box that will clone itself after some tim
 emits a beep during the lifespan of the program, nothing that the task manager can't solve.
 
 (the code is horrible, ik) oh, and the program is __Windows only__ btw.
+
+# If you want to run this code (for whatever reason)
+
+compile the resource file as if it were any other one
+
+to build the source code, you might want to use these link options (if you use MINGW)
+
+```
+-lkernel32
+-luser32
+-lcomctl32
+-lgdi32
+-mwindows
+```
