@@ -24,3 +24,7 @@ to build the source code, you might want to use these link options (if you use M
 -lgdi32
 -mwindows
 ```
+
+# The icon
+
+The icon is from the TheForger's Win32 API Tutorial [http://www.winprog.org/tutorial/](http://www.winprog.org/tutorial/)
