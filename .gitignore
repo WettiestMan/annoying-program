@@ -1,0 +1,7 @@
+bin/
+obj/
+
+# yes, this was done with CodeBlocks, how did you know? lol
+annoying.cbp
+annoying.depend
+annoying.layout
